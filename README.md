@@ -62,4 +62,4 @@ At the end of each day, you'll find a project that applies the concepts learned 
 For any questions, feedback, or suggestions, feel free to reach out:
 - Email: mkj.official20@gmail.com
 
-Happy coding! 🚀
+Happy coding!! 🚀
